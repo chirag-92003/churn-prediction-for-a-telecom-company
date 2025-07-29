@@ -1,0 +1,20 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Model files
+*.pkl
+*.joblib
+
+# Streamlit logs
+.streamlit/
+
+# VSCode or PyCharm config (optional)
+.vscode/
